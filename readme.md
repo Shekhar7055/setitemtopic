@@ -1,0 +1,4 @@
+setItem
+getItem
+removeItem
+clearItem
